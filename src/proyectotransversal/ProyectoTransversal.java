@@ -14,7 +14,6 @@ public class ProyectoTransversal {
         pp.setVisible(true);
         pp.setLocationRelativeTo(null);
 
-        System.out.println("HOla como estas");
         
     }
     
